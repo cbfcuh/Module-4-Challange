@@ -11,11 +11,14 @@ This blogs start code can be found on my personal<a href="https://github.com/cbf
 
 # Challanges
 Some of the biggest challanges I personally faced during this challange was 
-<ul>Remembering to push the data that was being stored</ul>
-<ul>Correctly giving unique identifiers, I had "id" that were quite similar in name and found myself calling the wrong ones</ul>
+<li>Remembering to push the data that was being stored</li>
+<li>Correctly giving unique identifiers, I had "id" that were quite similar in name and found myself calling the wrong ones</li>
 
 # Improvements
 This blog is currently far from perfect and a lot can be done to improve it:
-<ul>Visually the blog is very lackluster, colour and contrast could be added to improve the UX</ul>
-<ul>Rather than having the light/dark mode as a simple checkbox, it could be styled into a slider-bar instead giving it a more interactive feel</ul>
-<ul>Having it so that once changed over to dark mode and the user reloads the webpage that it remains in the dark mode rather going back to light mode.</ul>
+<li>Visually the blog is very lackluster, colour and contrast could be added to improve the UX</li>
+<li>Rather than having the light/dark mode as a simple checkbox, it could be styled into a slider-bar instead giving it a more interactive feel</li>
+<li>Having it so that once changed over to dark mode and the user reloads the webpage that it remains in the dark mode rather going back to light mode.</li>
+
+# Application
+By clicking <a href="" here</a> you can access the webpage.
