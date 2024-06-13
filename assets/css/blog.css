@@ -1,0 +1,22 @@
+#posts-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.nav-bar {
+    position: absolute;
+    right: 25px;
+    top: 75px;
+
+}
+
+.footer-css {
+    list-style: none;
+    text-decoration: none;
+}
